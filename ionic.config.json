@@ -1,0 +1,7 @@
+{
+  "name": "capandroidbug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
